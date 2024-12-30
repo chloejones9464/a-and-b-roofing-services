@@ -1,3 +1,13 @@
+/*Google Fonts imports*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+
+/*CSS Variable*/
+:root {
+    --primary-font: "Nunito", sans-serif;
+}
+
+/*Background image, all pages*/
 body {
-    background-image: image(url"https://pxhere.com/en/photo/1071435?utm_content=shareClip&utm_medium=referral&utm_source=pxhere");
+    background-image: url();
 }
