@@ -19,6 +19,20 @@ body {
 }
 
 
+
+/*Services Page*/
+#roofing-images {
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+header ul > li {
+    list-style-type: none;
+}
+
+
+
+
 /*Contact Section*/
 #contact > section {    
     background-color: #677381;
@@ -42,3 +56,7 @@ body {
 p > a {
     color: black;
 }
+
+
+/*Media queries*/
+
