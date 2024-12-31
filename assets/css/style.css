@@ -25,6 +25,7 @@ body {
     padding: 2px;
     color: white;
     text-decoration: none;
+    border-radius: 5px;
 }
 
 /*Services Page*/
@@ -39,8 +40,9 @@ header ul > li {
     list-style-type: none;
 }
 
-
-
+header #list {
+    margin-left: 2px;
+}
 
 /*Contact Section*/
 
