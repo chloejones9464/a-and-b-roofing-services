@@ -18,12 +18,21 @@ body {
     text-decoration: solid;
 }
 
-
+/*Call now button*/
+#call-now {
+    background-color: #677381;
+    border: 2px solid #677381;
+    padding: 2px;
+    color: white;
+    text-decoration: none;
+}
 
 /*Services Page*/
 #roofing-images {
     margin-bottom: 25px;
     margin-top: 25px;
+    border: 2px solid black;
+    padding: 0;
 }
 
 header ul > li {
@@ -34,11 +43,14 @@ header ul > li {
 
 
 /*Contact Section*/
-#contact > section {    
-    background-color: #677381;
+
+footer{
+    margin: 0;
 }
 
-#contact > #contact-content {
+#contact {  
+    width: 100%;
+    background-color: #677381;
     padding-bottom: 25px;
     padding-top: 10px;
 }
@@ -60,3 +72,9 @@ p > a {
 
 /*Media queries*/
 
+/*Medium devices 576px and up*/
+@media screen and (min-width: 576px) {
+    #call-now{
+        display: none;
+    }
+}
