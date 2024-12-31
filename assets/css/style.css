@@ -5,9 +5,19 @@
 /*CSS Variable*/
 :root {
     --primary-font: "Nunito", sans-serif;
+
 }
 
 /*Background image, all pages*/
 body {
-    background-image: url();
+    margin-top: 57px; 
+    background-image: url(/assets/images/roofing-twelve.jpg);
+    background-color: rgba(255, 255, 255, 0.5);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    }
+
+#contact > section{
+    background-color: #677381;
 }
