@@ -8,7 +8,7 @@
 
 }
 
-/*Background image, all pages*/
+/*Background image and contact background, all pages*/
 body {
     margin-top: 57px; 
     background-image: url(/assets/images/roofing-twelve.jpg);
@@ -20,4 +20,19 @@ body {
 
 #contact > section{
     background-color: #677381;
+}
+
+/*About us section*/
+
+#about-us {
+    text-decoration: solid;
+}
+
+/*Contact Section*/
+#social-links a {
+    color: black;
+}
+
+#social-links a:hover {
+    color: #2a272a;
 }
