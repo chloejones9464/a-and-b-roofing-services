@@ -34,10 +34,17 @@ body {
 }
 
 /*Contact Section*/
+
+/*Social links*/
 #social-links a {
     color: black;
 }
 
 #social-links a:hover {
     color: #2a272a;
+}
+
+/*Telephone links*/
+p > a {
+    color: black;
 }
