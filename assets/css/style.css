@@ -11,14 +11,8 @@ body {
     background-size: cover;
     background-blend-mode: lighten;
     }
-
-    /*About us section*/
-
-#about-us {
-    text-decoration: solid;
-}
-
-/*Call now button*/
+   
+    /*Call now button*/
 #call-now {
     background-color: #677381;
     border: 2px solid #677381;
@@ -26,21 +20,27 @@ body {
     color: white;
     text-decoration: none;
     border-radius: 5px;
+    margin-right: 0;
+}
+
+    /*About us section*/
+
+#about-us {
+    text-decoration: solid;
+    margin-top: 75px;
 }
 
 /*Services Page*/
-#roofing-images {
-    margin-bottom: 25px;
-    margin-top: 25px;
-    border: 2px solid black;
-    padding: 0;
+
+#services {
+    margin-top: 25p
 }
 
-header ul > li {
+#services-list > ul {
     list-style-type: none;
 }
 
-header #list {
+#aspects {
     margin-left: 2px;
 }
 
@@ -78,5 +78,13 @@ p > a {
 @media screen and (min-width: 576px) {
     #call-now{
         display: none;
+    }
+
+}
+
+/*Large devices 992px and up*/
+@media screen and (min-width: 992px) {
+     #navbarNav {
+        justify-content: end;
     }
 }
