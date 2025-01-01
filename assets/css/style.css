@@ -38,13 +38,12 @@ body {
 
 #services-list > ul {
     list-style-type: none;
+    margin-right: 2px;
 }
-
 
 #carouselRoofing {
-    margin-bottom: 8px;
+    margin-bottom: 8px;    
 }
-
 /*Contact Section*/
 
 footer{
@@ -75,17 +74,42 @@ p > a {
 
 /*Media queries*/
 
-/*Medium devices 576px and up*/
+/*Small devices 576px and up*/
 @media screen and (min-width: 576px) {
     #call-now{
         display: none;
     }
 
+    #carouselRoofing {
+        margin-top: 75px;
+    }
+}
+
+/*Medium devices 768px and up*/
+@media screen and (min-width: 768px) {
+    #carouselRoofing {
+        margin-bottom: 50px;
+    }
 }
 
 /*Large devices 992px and up*/
 @media screen and (min-width: 992px) {
      #navbarNav {
         justify-content: end;
+    }   
+
+    #aspects {
+        margin-top: 70px;
+    }
+
+    #carouselRoofing {
+        margin-bottom: 50px;
+    }
+}
+
+/*XL devices 1200px and up*/
+@media screen and (min-width: 1200px) {
+    #aspects ul {
+        font-size: 1.5rem;
     }
 }
