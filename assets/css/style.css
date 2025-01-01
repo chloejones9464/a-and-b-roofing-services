@@ -33,15 +33,16 @@ body {
 /*Services Page*/
 
 #services {
-    margin-top: 25p
+    margin-top: 25px;
 }
 
 #services-list > ul {
     list-style-type: none;
 }
 
-#aspects {
-    margin-left: 2px;
+
+#carouselRoofing {
+    margin-bottom: 8px;
 }
 
 /*Contact Section*/
