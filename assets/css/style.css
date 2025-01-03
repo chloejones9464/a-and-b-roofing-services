@@ -13,14 +13,14 @@ body {
     background-blend-mode: lighten;
     }
 
-    #homepage {
-        margin-top: 148px;
-    }
-
     /*Hiding h1 elements on all pages*/
 
     h1 {
         display: none;
+    }
+
+    #logo img {
+        margin-top: 75px;
     }
    
     /*Call now button*/
