@@ -38,7 +38,7 @@ body {
 
 #services-list > ul {
     list-style-type: none;
-    margin-right: 2px;
+    margin-right: 30px;
 }
 
 #carouselRoofing {
@@ -46,7 +46,17 @@ body {
 }
 
 /*Gallery page*/
+#gallery div > img {
+    margin-bottom: 25px;
+    width: 546px;
+    height: 409.5px;
+    object-fit: cover;
+}
 
+#gallery div > img:hover {
+    box-shadow: #2a272a;
+    border-color: #677381;
+}
 
 /*Contact Section*/
 
