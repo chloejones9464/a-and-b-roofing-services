@@ -1,3 +1,4 @@
+
 /*Google Fonts imports*/
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
@@ -21,8 +22,6 @@ body {
     h1 {
         display: none;
     }
-
-
    
     /*Call now button*/
 #call-now {
@@ -38,7 +37,8 @@ body {
     /*About us section*/
 
 #about-us {
-    text-decoration: solid;
+    -webkit-text-decoration: solid;
+            text-decoration: solid;
     margin-top: 75px;
 }
 
@@ -62,7 +62,8 @@ body {
     margin-bottom: 25px;
     width: 546px;
     height: 409.5px;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
 }
 
 #h2-hide {
@@ -124,7 +125,9 @@ p > a {
 /*Large devices 992px and up*/
 @media screen and (min-width: 992px) {
      #navbarNav {
-        justify-content: end;
+        -webkit-box-pack: end;
+            -ms-flex-pack: end;
+                justify-content: end;
     }   
 
     #aspects {
