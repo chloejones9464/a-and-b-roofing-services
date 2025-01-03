@@ -5,7 +5,7 @@
 /*Background image and contact background, all pages*/
 body {
     margin-top: 57px;     
-    background-image: url(/assets/images/roofing-twelve.jpg);
+    background-image: url(../images/roofing-twelve.jpg);
     background-color: rgba(255, 255, 255, 0.5);
     background-repeat: no-repeat;
     background-size: cover;
