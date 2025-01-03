@@ -12,11 +12,17 @@ body {
     background-blend-mode: lighten;
     }
 
+    #homepage {
+        margin-top: 148px;
+    }
+
     /*Hiding h1 elements on all pages*/
 
     h1 {
         display: none;
     }
+
+
    
     /*Call now button*/
 #call-now {
