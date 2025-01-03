@@ -59,8 +59,11 @@ body {
     object-fit: cover;
 }
 
-#gallery div > img:hover {
-    box-shadow: #2a272a;
+#h2-hide {
+    display: none;
+}
+
+#gallery div > img:hover {    
     border-color: #677381;
 }
 
