@@ -11,6 +11,12 @@ body {
     background-size: cover;
     background-blend-mode: lighten;
     }
+
+    /*Hiding h1 elements on all pages*/
+
+    h1 {
+        display: none;
+    }
    
     /*Call now button*/
 #call-now {
@@ -42,7 +48,7 @@ body {
 }
 
 #carouselRoofing {
-    margin-bottom: 8px;    
+    margin-bottom: 8px;
 }
 
 /*Gallery page*/
