@@ -22,10 +22,17 @@ It's a small family run roofing company that has been running for over 10 years.
 #### Why I used these specific technologies?
 
 #### The challenges I faced
+I came across a couple of challenges in this project. I had placed id and classes in wrong divs but after a little experimenting and realisations, I was able to read the code better and understand where to place the classes and ids to achieve the style I was hoping to.
+
+The main challenge I had faced was the Gallery page. This was made me was to take at least an hour's break from coding that day to just sit, relax and come back with a clear mind on things.
+The look I wanted to achieve in the gallery was to have all images placed in a grid and for them to be displayed next to each other when the devices got bigger. I tried putting all images in a single div, wrong move! Then after searching on Google and reading other coders issues and solutions, I was able to scrap my initial thought and apply a new layout with # and . in the correct places to achieve it's current look.
 
 #### What I would like to add in the future!
+I would love to add a few more things to the website (after speaking to the company owner, my husband), such as a form to be able to submit an issue, call out or a call back.
+I would'nt like to alter the website too much as the company would like it to be as accessible and user friendly, they have many customers that aren't very IT literate and will have great difficulty if the website was overwhelming and busy.
 
 ### Would you like to use my project?
+
 /*
 Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
 
