@@ -42,6 +42,10 @@ body {
     margin-bottom: 25px;
 }
 
+main > .container {
+    background-color: #b7b7b7;
+}
+
 /*Services Page*/
 
 #services {
@@ -82,7 +86,7 @@ footer{
 
 #contact {  
     width: 100%;
-    background-color: #677381;
+    background-color: #b7b7b7;
     padding-bottom: 25px;
     padding-top: 10px;
 }
