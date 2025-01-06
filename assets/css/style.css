@@ -42,6 +42,7 @@ body {
     margin-bottom: 25px;
 }
 
+/*Used the eye dropper tool (on the logo) in dev tools to contrast the background color of the container to the html background*/
 main > .container {
     background-color: #b7b7b7;
 }
@@ -83,12 +84,16 @@ main > .container {
 footer{
     margin: 0;
 }
-
+/*Used the eye dropper tool (on the logo) in dev tools to contrast the background color of the container to the html background*/
 #contact {  
     width: 100%;
     background-color: #b7b7b7;
     padding-bottom: 25px;
     padding-top: 10px;
+}
+
+#call-text {
+    display: none;
 }
 
 /*Social links*/
@@ -110,10 +115,18 @@ p > a {
 
 /*Small devices 576px and up*/
 @media screen and (min-width: 576px) {
+    /*Contact links*/
     #call-now{
         display: none;
     }
+    #call-links {
+        display: none;
+    }
+    #call-text {
+        display: contents;
+    }
 
+    /*Services page*/
     #carouselRoofing {
         margin-top: 75px;
     }
@@ -124,6 +137,8 @@ p > a {
     #carouselRoofing {
         margin-bottom: 50px;
     }
+
+  
 }
 
 /*Large devices 992px and up*/
