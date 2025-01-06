@@ -51,6 +51,7 @@ main > .container {
 
 #services {
     margin-top: 25px;
+    margin-bottom: 12px;
 }
 
 #services-list > ul {
@@ -60,6 +61,12 @@ main > .container {
 
 #carouselRoofing {
     margin-bottom: 8px;
+}
+
+.carousel-inner img {
+    width: 240px;
+    height: 320px;
+
 }
 
 /*Gallery page*/
@@ -127,10 +134,8 @@ p > a {
     }
 
     /*Services page*/
-    #carouselRoofing {
-        margin-top: 75px;
-    }
-}
+    
+   }
 
 /*Medium devices 768px and up*/
 @media screen and (min-width: 768px) {
@@ -154,8 +159,13 @@ p > a {
     }
 
     #carouselRoofing {
-        margin-bottom: 50px;
+        margin-top: 20px;
     }
+
+    #aspects {
+        margin-top: 30px;
+    }
+
 }
 
 /*XL devices 1200px and up*/
