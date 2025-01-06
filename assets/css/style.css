@@ -20,6 +20,8 @@ body {
 
     #logo img {
         margin-top: 75px;
+        width: 300px;
+        height: 140px;
     }
    
     /*Call now button*/
