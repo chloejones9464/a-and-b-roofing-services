@@ -150,6 +150,7 @@ p > a {
 @media screen and (min-width: 768px) {
     #carouselRoofing {
         margin-bottom: 50px;
+        margin-right: 20px;
     }
 
   
@@ -189,6 +190,6 @@ p > a {
 
     #carouselRoofing {
         margin-top: 40px;
-        padding-right: 48px;
+        margin-right: 48px;
     }
 }
