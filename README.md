@@ -19,6 +19,9 @@ It will contain;
 This project will contain information for users who require the company's services.
 It's a small family run roofing company that has been running for over 10 years. Living in a small area in Wales, the business have loyal customers that reccomend to family and friends. I would like this website to have an 'easy use' approach as customers looking for roofing services will not need technical information, only useful and informative information. This will help them make the decision to choose the right company for the job, A & B Roofing Services.
 
+#### The steps I've taken to achieve this project
+
+
 #### Why I used these specific technologies?
 
 #### The challenges I faced
