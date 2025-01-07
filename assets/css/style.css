@@ -20,8 +20,8 @@ body {
 
     #logo img {
         margin-top: 75px;
-        width: 300px;
-        height: 140px;
+        width: 340px;
+        height: 148px;
     }
    
     /*Call now button*/
@@ -68,7 +68,7 @@ main > .container {
 }
 
 .carousel-inner img {
-    width: 240px;
+    width: 405px;
     height: 320px;
 
 }
