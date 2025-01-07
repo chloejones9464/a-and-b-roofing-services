@@ -4,12 +4,14 @@
 
 /*Background image and contact background, all pages*/
 body {
-    margin-top: 57px;     
-    background-image: url(../images/roofing-twelve.jpeg);
+    margin-top: 57px;    
     background-color: rgba(255, 255, 255, 0.5);
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;    
     background-blend-mode: lighten;
+    background-position: center center;
+    background-attachment: fixed;
+    background-image: url(../images/roofing-twelve.webp);
     }
 
     /*Hiding h1 elements on all pages*/
@@ -133,6 +135,8 @@ p > a {
 
 /*Small devices 576px and up*/
 @media screen and (min-width: 576px) {
+
+
     /*Contact links*/
     #call-now{
         display: none;
@@ -143,7 +147,6 @@ p > a {
     #call-text {
         display: contents;
     }
-
     /*Services page*/
     
    }
