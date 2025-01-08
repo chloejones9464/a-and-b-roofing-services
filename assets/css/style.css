@@ -100,6 +100,12 @@ main #gallery {
     border-color: #677381;
 }
 
+/*Enquiry Page*/
+#enquirySubtitle {
+    margin: 30px 0;
+}
+
+
 /*Contact Section*/
 
 footer{
@@ -147,17 +153,20 @@ p > a {
     }
     #call-text {
         display: contents;
-    }
-    /*Services page*/
+    }   
     
    }
 
 /*Medium devices 768px and up*/
 @media screen and (min-width: 768px) {
+
+    /*Services page*/
     #carouselRoofing {
         margin-bottom: 50px;
         margin-right: 20px;
     }
+
+
 
   
 }
@@ -170,17 +179,15 @@ p > a {
                 justify-content: end;
     }   
 
-    #aspects {
-        margin-top: 70px;
-    }
+    /*Services page*/   
 
     #carouselRoofing {
         margin-top: 20px;
     }
-
+    
     #aspects {
         margin-top: 30px;
-    }
+    }   
 
 }
 
