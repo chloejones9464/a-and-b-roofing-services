@@ -76,6 +76,14 @@ main > .container {
 
 }
 
+#services ul li a {
+    color: #2a272a;
+}
+
+#services ul li a:hover {
+    color: #3d4044;
+}
+
 /*Gallery page*/
 
 main #gallery {
@@ -153,6 +161,13 @@ footer{
 /*Telephone links*/
 p > a {
     color: black;
+}
+
+/*Modals*/
+
+.modal-content {
+    background-color: #2b3035;
+    color: white;
 }
 
 
