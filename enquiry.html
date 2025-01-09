@@ -86,7 +86,7 @@
 
             <!--Enquiry form-->
             <div id="enquiryForm">
-                <form action="" method="post">
+                <form action="thank-you.html" method="GET">
                     <div class="row justify-content-evenly">
                         <div class="mb-3 col-6 col-lg-4">
                             <label for="fname" class="form-label">First Name</label>
@@ -115,11 +115,13 @@
                         </div>
                         <div class="mb-3 col-12 col-lg-6">
                             <label for="enquiry" class="form-label">Enquriy</label>
-                            <textarea class="form-control" id="enquiry" rows="3" placeholder="How can we help you?"></textarea required>
-                        </div>                    
-                </div>
-
-                <button id="submit" type="button" class="btn">Submit</button>
+                            <textarea class="form-control" id="enquiry" rows="3" placeholder="How can we help you?" required></textarea>
+                        </div>
+                        <div>                  
+                        <input type="submit" id="submit" class="btn">   
+                    </div>
+                </div>                
+                           
             </form>
         </div>
         </section>

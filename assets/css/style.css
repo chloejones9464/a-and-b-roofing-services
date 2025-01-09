@@ -116,6 +116,13 @@ main #gallery {
     padding: 4px 8px;
 }
 
+#submit:hover {
+    background-color: white;
+    color: #2b3035;
+    padding: 4px 8px;
+    border: solid 2px #2b3035;
+}
+
 
 /*Contact Section*/
 
