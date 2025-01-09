@@ -105,6 +105,17 @@ main #gallery {
     margin: 30px 0;
 }
 
+#enquiryForm {
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+}
+
+#submit {
+    background-color: #2b3035;
+    color: white;
+    padding: 4px 8px;
+}
+
 
 /*Contact Section*/
 
