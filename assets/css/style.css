@@ -84,6 +84,10 @@ main > .container {
     color: #3d4044;
 }
 
+.modal-body {
+    overflow-y: hidden;
+}
+
 /*Gallery page*/
 
 main #gallery {
@@ -186,8 +190,7 @@ p > a {
     }
     #call-text {
         display: contents;
-    }   
-    
+    }          
    }
 
 /*Medium devices 768px and up*/
