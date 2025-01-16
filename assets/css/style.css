@@ -1,7 +1,6 @@
 /*google imports*/
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
-
 /*Background image and contact background, all pages*/
 body {
     margin-top: 57px;    
@@ -12,21 +11,14 @@ body {
     background-position: center center;
     background-attachment: fixed;
     background-image: url(../images/roofing-twelve.webp);
-    }
+    }    
 
-    /*Hiding h1 elements on all pages*/
-
-    h1 {
-        display: none;
-    }
-
-    #logo img {
-        margin-top: 75px;
-        width: 280px;
-        height: 148px;
+#logo img {
+    margin-top: 75px;
+    width: 280px;
+    height: 148px;
         
-    }
-   
+    }   
     /*Call now button*/
 #call-now {
     background-color: #677381;
@@ -34,12 +26,10 @@ body {
     padding: 2px;
     color: white;
     text-decoration: none;
-    border-radius: 5px;
-    margin-right: 0;
+    border-radius: 5px;        
 }
 
     /*About us section*/
-
 #about-us {
     -webkit-text-decoration: solid;
             text-decoration: solid;
@@ -54,7 +44,6 @@ main > .container {
 }
 
 /*Services Page*/
-
 #services {
     padding-top: 12px;
     margin-top: 25px;
@@ -94,7 +83,6 @@ main > .container {
 }
 
 /*Gallery page*/
-
 main #gallery {
     background-color: #b7b7b7;
     padding-top: 25px;
@@ -143,7 +131,6 @@ main #gallery {
 
 
 /*Contact Section*/
-
 footer{
     margin: 0;
 }
@@ -174,84 +161,84 @@ p > a {
 }
 
 /*Modals*/
-
 .modal-content {
     background-color: #2b3035;
     color: white;
 }
 
-
 /*Media queries*/
-
+/*devices 340px and lower*/
+@media screen and (max-width:340px) {
+#call-now {
+    order: 3;
+}
+}
 /*Small devices 576px and up*/
 @media screen and (min-width: 576px) {
 
-
     /*Contact links*/
-    #call-now{
-        display: none;
+#call-now{
+    display: none;
     }
-    #call-links {
-        display: none;
-    }
-    #call-text {
-        display: contents;
-    }          
-   }
+#call-links {
+    display: none;
+}
+#call-text {
+    display: contents;
+}       
+}   
+
 
 /*Medium devices 768px and up*/
 @media screen and (min-width: 768px) {
-
-    /*Services page*/
-    #carouselRoofing {
-        margin-bottom: 50px;
-        margin-right: 20px;
+/*Services page*/
+#carouselRoofing {
+    margin-bottom: 50px;
+    margin-right: 20px;
     }
 
     /*Enquiry Form*/
-    #enquiryForm {
-        margin: 0 50px;
-    }
-  
+#enquiryForm {
+    margin: 0 50px;
+    }  
 }
 
 /*Large devices 992px and up*/
 @media screen and (min-width: 992px) {
-     #navbarNav {
-        -webkit-box-pack: end;
-            -ms-flex-pack: end;
-                justify-content: end;
+#navbarNav {
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: end;
     }   
 
-    /*Services page*/   
-
-    #carouselRoofing {
-        margin-top: 20px;
+    /*Services page*/  
+#carouselRoofing {
+    margin-top: 20px;
     }
     
-    #aspects {
-        margin-top: 30px;
+#aspects {
+    margin-top: 30px;
     }   
 
 }
 
 /*XL devices 1200px and up*/
 @media screen and (min-width: 1200px) {
-    #aspects ul {
-        font-size: 1.5rem;
+#aspects ul {
+    font-size: 1.5rem;
     }
 
-    #aspects {
-        margin-top: 0;
+#aspects {
+    margin-top: 0;
     }
 
-    #carouselRoofing {
-        margin-top: 40px;
-        margin-right: 48px;
+#carouselRoofing {
+    margin-top: 40px;
+    margin-right: 48px;
     }
 
-    /*Enquiry Form*/
-    #enquiryForm {
-        margin: 0 100px;
+/*Enquiry Form*/
+#enquiryForm {
+    margin: 0 100px;
     }
 }
