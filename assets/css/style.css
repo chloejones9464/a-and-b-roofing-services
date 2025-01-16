@@ -20,9 +20,9 @@ h1 {
 #logo img {
     margin-top: 75px;
     width: 280px;
-    height: 148px;
-        
-    }   
+    height: 148px;        
+    } 
+
     /*Call now button*/
 #call-now {
     background-color: #677381;
@@ -41,7 +41,6 @@ h1 {
     margin-top: 75px;
     margin-bottom: 25px;
     }
-
 /*Used the eye dropper tool (on the logo) in dev tools to contrast the background color of the container to the html background*/
 main > .container {
     background-color: #b7b7b7;
@@ -57,118 +56,118 @@ main > .container {
 #services-list > ul {
     list-style-type: none;
     margin-right: 30px;
-}
+    }
 
 #carouselRoofing {
     margin-bottom: 8px;
-}
+    }
 
 .carousel-inner img {
     width: 405px;
     height: 320px;
 
-}
+    }
 
 .carousel-indicators {
     background-color: #2a272a; 
     margin: 0 20% 1rem;    
-}
+    }
 
 #services ul li a {
     color: #2a272a;
-}
+    }
 
 #services ul li a:hover {
     color: #3d4044;
-}
+    }
 
 .modal-body {
     overflow-y: hidden;
-}
+    }
 
 /*Gallery page*/
 main #gallery {
     background-color: #b7b7b7;
     padding-top: 25px;
     margin-bottom: 8px;
-}
+    }
 
 #gallery div > img {
     margin-bottom: 25px;
     width: 546px;
     height: 409.5px;
     -o-object-fit: cover;
-       object-fit: cover;
-}
+    object-fit: cover;
+    }
 
 #h2-hide {
     display: none;
-}
+    }
 
 #gallery div > img:hover {    
     border-color: #677381;
-}
+    }
 
 /*Enquiry Page*/
 #enquirySubtitle {
     margin: 30px 0;
-}
+    }
 
 #enquiryForm {
     margin-bottom: 12px;
     padding-bottom: 12px;
-}
+    }
 
 #submit {
     background-color: #2b3035;
     color: white;
     padding: 4px 8px;
     border: solid 2px #2b3035;
-}
+    }
 
 #submit:hover {
     background-color: white;
     color: #2b3035;
     padding: 4px 8px;
     border: solid 2px #2b3035;
-}
+    }
 
 
 /*Contact Section*/
 footer{
     margin: 0;
-}
+    }
 /*Used the eye dropper tool (on the logo) in dev tools to contrast the background color of the container to the html background*/
 #contact {  
     width: 100%;
     background-color: #b7b7b7;
     padding-bottom: 25px;
     padding-top: 10px;
-}
+    }
 
 #call-text {
     display: none;
-}
+    }
 
 /*Social links*/
 #social-links a {
     color: black;
-}
+    }
 
 #social-links a:hover {
     color: #2a272a;
-}
+    }
 
 /*Telephone links*/
 p > a {
     color: black;
-}
+    }
 
 /*Modals*/
 .modal-content {
     background-color: #2b3035;
     color: white;
-}
+    }
 
 /*Media queries*/
 /*devices 340px and lower*/
@@ -176,7 +175,7 @@ p > a {
 /*This rule keeps the nav-collapse button at the top on the right of the screen*/
 #call-now {
     order: 3;
-}
+    }
 }
 /*Small devices 576px and up*/
 @media screen and (min-width: 576px) {
@@ -187,10 +186,10 @@ p > a {
     }
 #call-links {
     display: none;
-}
+    }
 #call-text {
     display: contents;
-}       
+    }       
 }   
 
 
