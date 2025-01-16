@@ -21,6 +21,9 @@ It's a small family run roofing company that has been running for over 10 years.
 
 #### The steps I've taken to achieve this project
 
+I used the github projects section to create a number of user stories (as seen in screenshots).
+I had also used wireframes to plan out my design of the website and it's different pages.(screenshots)
+
 
 #### Why I used these specific technologies?
 

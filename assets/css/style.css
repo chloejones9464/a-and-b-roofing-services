@@ -76,6 +76,11 @@ main > .container {
 
 }
 
+.carousel-indicators {
+    background-color: #2a272a; 
+    margin: 0 20% 1rem;    
+}
+
 #services ul li a {
     color: #2a272a;
 }
@@ -201,8 +206,6 @@ p > a {
         margin-bottom: 50px;
         margin-right: 20px;
     }
-
-
 
   
 }
