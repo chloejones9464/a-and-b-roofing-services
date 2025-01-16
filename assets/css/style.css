@@ -131,6 +131,7 @@ main #gallery {
     background-color: #2b3035;
     color: white;
     padding: 4px 8px;
+    border: solid 2px #2b3035;
 }
 
 #submit:hover {
@@ -207,6 +208,10 @@ p > a {
         margin-right: 20px;
     }
 
+    /*Enquiry Form*/
+    #enquiryForm {
+        margin: 0 50px;
+    }
   
 }
 
@@ -243,5 +248,10 @@ p > a {
     #carouselRoofing {
         margin-top: 40px;
         margin-right: 48px;
+    }
+
+    /*Enquiry Form*/
+    #enquiryForm {
+        margin: 0 100px;
     }
 }
