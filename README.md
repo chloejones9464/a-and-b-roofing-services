@@ -1,6 +1,12 @@
 # My Milestone Project 1
 
-## A & B Roofing Services
+## A & B Roofing Services Website
+This is a real world business that is looking for a responsive and easy to use websote for customers of all ages. This website will allow users to view previous jobs and see what the company offer in their services. Customers will have the ability to send an enquiry, use the click-to-call buttons at the very top and bottom of the page and visit the company's Facebook page.
+
+![Screenshot of the project on different devices, using the website am i responsive?](documentation/project-image.webp)
+
+[View A & B Roofing Services' page now!](https://chloejones9464.github.io/a-and-b-roofing-services/)
+
 ## Table Of Contents:
 1. [Design & Planning](#design-&-planning)
     * [User Stories](#user-stories)
@@ -23,14 +29,46 @@
 
 ## Design & Planning:
 
+### Initial Discussions
+A & B Roofing Services is a company in the real world that have been established since COVID came around. It is a family run business with over 30 years experience and have proven very popular and reliable in and around the Rhondda Valleys.
+Customers have spread the word about A & B Roofing Services through general word of mouth but the company have been looking to create another way to reach their customers.
+
+Along with Facebook and the local business magazine promotions, Brandon and Anthony have some concerns that these methods may not be enough. After a few customers asking and advising, the company finally decided to create their own website with easy to use features, the ability to call them on any page, access to their ever growing portfolio, a service page with all they can offer and an enquiry page.
+
+### Key information for the site
+
+* The company's commitment to provide the best work possible at a very reasonable price.
+* Having more than one point of contact for convenient and easy user experience.
+* Displaying previous work on the website that will give customers reassurance of a job well done.
+* Simple design, not to overwhelm users.
+
 ### User Stories
-Write your user stories in this section
+
+#### User experience
+
+* I would like the website to have a clear navigation area so that I can use get from page to page with easy.
+* I would like there to be clear information on the first page I see so that I know immediately I'm visiting the correct site.
+* I want the contact details to be accessible on all pages so that I can find them with just one click.
+* I want to have the option to contact the company through their website so that I have more than one option to get hold of the company.
+* I want to have a sign that tells me my enquiry has been sent so that I know the company has received it.
+
+#### Company goals
+
+* I want my website to have as much information as possible so that potential customers can see what we services we have to offer.
+* I would like to include various jobs we've completed on the website so that customers can view what we can do and to the standard we're proud of.
+* I want to have a Call Now button for an emergency or ease of contact so that the company can be contacted right-away.
+
+
 ### Wireframes
 Attach wireframes in this section
 ### Typography
-Explain font you've used for your project
+I used Google Fonts to import fonts to use for the website.
+
+I went with a combination on Nunito and Sans-Serif. Discussed with the company, these fonts seems very approachable, easy and friendly to the eye.
 ### Colour Scheme
-Screenshoot of the colour scheme for your project
+As this is a project for an actual company, I've stuck with the color scheme given to me by their logo. Very minimalistic but effective.
+
+![Screenshot of the colour palette from the Coolors website](documentation/color-palette.webp)
 
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
