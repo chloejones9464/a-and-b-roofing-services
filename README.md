@@ -60,7 +60,7 @@ Along with Facebook and the local business magazine promotions, Brandon and Anth
 
 
 ### Wireframes
-Attach wireframes in this section
+To view the wireframes for this project, please click [here](wireframes.md)
 ### Typography
 I used Google Fonts to import fonts to use for the website.
 
