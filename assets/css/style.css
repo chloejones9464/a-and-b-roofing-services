@@ -201,8 +201,8 @@ p > a {
     }
 
 /*Media queries*/
-/*devices 319px and lower*/
-@media screen and (max-width:319px) {
+/*devices 321x and lower*/
+@media screen and (max-width:321px) {
 /*This rule keeps the nav-collapse button at the top on the right of the screen*/
 #call-now {
     order: 3;
