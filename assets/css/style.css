@@ -32,7 +32,8 @@ h1 {
     padding: 2px;
     color: white;
     text-decoration: none;
-    border-radius: 5px;        
+    border-radius: 5px;    
+    margin-right: 2px;    
     }
 
     /*About us section*/
@@ -200,8 +201,8 @@ p > a {
     }
 
 /*Media queries*/
-/*devices 340px and lower*/
-@media screen and (max-width:340px) {
+/*devices 319px and lower*/
+@media screen and (max-width:319px) {
 /*This rule keeps the nav-collapse button at the top on the right of the screen*/
 #call-now {
     order: 3;
