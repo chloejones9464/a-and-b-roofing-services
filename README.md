@@ -98,20 +98,26 @@ HTML
 CSS
 Bootstrap
 Github
-## Testing
+## Testing links and responsiveness
 ### Navigation
 [![Testing the navigation](https://img.youtube.com/vi/XK4LA84k7Dc/0.jpg)](https://www.youtube.com/watch?v=XK4LA84k7Dc)
 
 ### Home page
 [![Testing the home page](https://img.youtube.com/vi/Q5aHrgNZG2A/0.jpg)](https://www.youtube.com/watch?v=Q5aHrgNZG2A)
 
+### Services page
+[![Testing the home page](https://img.youtube.com/vi/HzG9C7FGptk/0.jpg)](https://www.youtube.com/watch?v=HzG9C7FGptk)
+
+### Gallery page
+[![Testing the home page](https://img.youtube.com/vi/jhtUvfZBjTw/0.jpg)](https://www.youtube.com/watch?v=jhtUvfZBjTw)
+
+### Enquiry and Thank you page
+[![Testing the home page](https://img.youtube.com/vi/YaZds608avw/0.jpg)](https://www.youtube.com/watch?v=YaZds608avw)
 
 ### Google's Lighthouse Performance
 Screenshots of certain pages and scores (mobile and desktop)
 ### Browser Compatibility
 Check compatability with different browsers
-### Responsiveness
-Screenshots of the responsivness, pick few devices (from 320px top 1200px)
 ### Code Validation
 Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
 ### Manual Testing user stories or/and features
