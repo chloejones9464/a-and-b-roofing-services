@@ -115,7 +115,10 @@ Github
 [![Testing the home page](https://img.youtube.com/vi/YaZds608avw/0.jpg)](https://www.youtube.com/watch?v=YaZds608avw)
 
 ### Google's Lighthouse Performance
-Screenshots of certain pages and scores (mobile and desktop)
+ #### Mobile devices
+
+ #### Desktop
+ 
 ### Browser Compatibility
 Check compatability with different browsers
 ### Code Validation
