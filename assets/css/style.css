@@ -217,6 +217,11 @@ p > a {
 #call-now {
     order: 3;
     }
+
+    #modalImages > img {
+        width: 268px;
+        height: auto;
+    }
 }
 /*Small devices 576px and up*/
 @media screen and (min-width: 576px) {

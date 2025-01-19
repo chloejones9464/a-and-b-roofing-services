@@ -72,17 +72,40 @@ As this is a project for an actual company, I've stuck with the color scheme giv
 
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
+The website has a collapsable navigation bar in the header and a contact section in the footer (more below).
+Each page on the website contains the company's logo at the very top of the page, this is for the effect anf feeling of consistency throughout the site.
+### Pages on the website consist of a; 
+* Home page - The home page of the website contains the company's about us section where they express their dedication and commitment to deliver high quality roofing services.
+* Services page - This is where the public and potential customers come to find out what the company has to offer and work they carry out. It contains a list of the works, this includes clickable text for the users to visually see the jobs undertaken under that name. There is also an image carousel displaying various completed jobs.
+* Gallery page - The company specifically asked for a page where they can display a range of jobs they have completed, mainly before and after images. Users can view the range and quality of work done by the business. The page also contains a video taken from a large job the company had completed recently.
+* Enquiry & Thank you page - This page is for the users to input their enquiry and send to the company out of the working hours. Once sending off the enquiry (after filling in each box) the user will be greeted with a thank you page, an acknowledgment that their form has been sent to the company.
 ### Navigation
+Within the navigation section of the site, there are 7 clickable links.
+1. The company's logo will take you directly to the home page, as will the Home link on the right hand side of the site.
+2. Services.
+3. Gallery.
+4. Enquiry
+5. Contact will take you to the bottom of each page to the Contact Us section.
+6. Call Now. This button in the navigation will appear only on phone devices and once clicked on, will give the user the ability to call the company immediately.
+
+The navigation bar has a collapsable feature for smaller devices and will drop down when clicked on. After clicking the desired page, the menu will collapse.
 ### Footer
+The footer contains the company's contact section. The section has links to the company's Facebook page and when on mobile devices, the ability to click on the contact numbers to call the company immediately.
 ### Other features
 ## Technologies Used
-List of technologies used for your project...
+For this project I used a number of technologies such as;
 HTML
 CSS
 Bootstrap
 Github
 ## Testing
-Important part of your README!!!
+### Navigation
+[![Testing the navigation](https://img.youtube.com/vi/XK4LA84k7Dc/0.jpg)](https://www.youtube.com/watch?v=XK4LA84k7Dc)
+
+### Home page
+[![Testing the home page](https://img.youtube.com/vi/Q5aHrgNZG2A/0.jpg)](https://www.youtube.com/watch?v=Q5aHrgNZG2A)
+
+
 ### Google's Lighthouse Performance
 Screenshots of certain pages and scores (mobile and desktop)
 ### Browser Compatibility
