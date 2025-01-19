@@ -115,10 +115,20 @@ Github
 [![Testing the home page](https://img.youtube.com/vi/YaZds608avw/0.jpg)](https://www.youtube.com/watch?v=YaZds608avw)
 
 ### Google's Lighthouse Performance
- #### Mobile devices
+#### Mobile devices
+##### Home page
+##### Services page
+##### Gallery page
+##### Enquiry page
+##### Thank you page
 
- #### Desktop
- 
+#### Desktop
+##### Home page
+##### Services page
+##### Gallery page
+##### Enquiry page
+##### Thank you page
+
 ### Browser Compatibility
 Check compatability with different browsers
 ### Code Validation
