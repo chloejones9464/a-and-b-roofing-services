@@ -117,20 +117,32 @@ Github
 ### Google's Lighthouse Performance
 #### Mobile devices
 ##### Home page
+![Home page testing](documentation/home-page-test.png)
 ##### Services page
+![Services page testing](documentation/services-test.png)
 ##### Gallery page
+![Gallery page testing](documentation/gallery-test.png)
 ##### Enquiry page
+![Enquiry page testing](documentation/enquiry-test.png)
 ##### Thank you page
+![Thank you page testing](documentation/thank-you-test.png)
 
 #### Desktop
 ##### Home page
+![Home page testing](documentation/desktop-home-test.png)
 ##### Services page
+![Services page testing](documentation/desktop-services-test.png)
 ##### Gallery page
+![Gallery page testing](documentation/desktop-gallery-test.png)
 ##### Enquiry page
+![Enquiry page testing](documentation/desktop-enquiry-test.png)
 ##### Thank you page
+![Thank you page testing](documentation/desktop-thank-you-test.png)
 
 ### Browser Compatibility
-Check compatability with different browsers
+Testing the website on different browsers using the chrome extention 'User-Agent Switcher for Chrome'.
+These are the browsers being tested(below) and each browser showed that the website was compatible.
+![Tested browsers](documentation/tested-browsers.png)
 ### Code Validation
 Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
 ### Manual Testing user stories or/and features
