@@ -144,7 +144,17 @@ Testing the website on different browsers using the chrome extention 'User-Agent
 These are the browsers being tested(below) and each browser showed that the website was compatible.
 ![Tested browsers](documentation/tested-browsers.png)
 ### Code Validation
-Validate your code HTML, CSS (all pages/files need to be validated!!!), display screenshots
+#### Home page
+![Home page validation](documentation/home-page-validate.png)
+#### Services page
+![Services page validation](documentation/services-validate.png)
+#### Gallery page
+![Gallery page validation](documentation/gallery-validate.png)
+#### Enquiry page
+![Enquiry page validation](documentation/enquiry-validate.png)
+#### Thank you page
+![Thank you page validation](documentation/thank-you-validate.png)
+
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
 User Story |  Test | Pass
