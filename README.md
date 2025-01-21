@@ -115,46 +115,15 @@ Github
 [![Testing the home page](https://img.youtube.com/vi/YaZds608avw/0.jpg)](https://www.youtube.com/watch?v=YaZds608avw)
 
 ### Google's Lighthouse Performance
-#### Mobile devices
-##### Home page
-![Home page testing](documentation/home-page-test.png)
-##### Services page
-![Services page testing](documentation/services-test.png)
-##### Gallery page
-![Gallery page testing](documentation/gallery-test.png)
-##### Enquiry page
-![Enquiry page testing](documentation/enquiry-test.png)
-##### Thank you page
-![Thank you page testing](documentation/thank-you-test.png)
+Click [here](lighthouse.md) for screenshots of the website performance.
 
-#### Desktop
-##### Home page
-![Home page testing](documentation/desktop-home-test.png)
-##### Services page
-![Services page testing](documentation/desktop-services-test.png)
-##### Gallery page
-![Gallery page testing](documentation/desktop-gallery-test.webp)
-##### Enquiry page
-![Enquiry page testing](documentation/desktop-enquiry-test.png)
-##### Thank you page
-![Thank you page testing](documentation/desktop-thank-you-test.png)
 
 ### Browser Compatibility
 Testing the website on different browsers using the chrome extention 'User-Agent Switcher for Chrome'.
 These are the browsers being tested(below) and each browser showed that the website was compatible.
 ![Tested browsers](documentation/tested-browsers.png)
 ### Code Validation
-#### Home page
-![Home page validation](documentation/home-page-validate.png)
-#### Services page
-![Services page validation](documentation/services-validate.png)
-#### Gallery page
-![Gallery page validation](documentation/gallery-validate.png)
-#### Enquiry page
-![Enquiry page validation](documentation/enquiry-validate.png)
-#### Thank you page
-![Thank you page validation](documentation/thank-you-validate.png)
-
+Click [here](validation.md) to view all code validations.
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
 User Story |  Test | Pass
@@ -213,6 +182,8 @@ List of used resources for your website (text, images, snippets of code, project
  * w3schools.com
  * YouTube
  * chatGPT
+ * validator.w3.org
+ * jigsaw.w3.org/css-validator
 
   - Media
 * All roofing images and logo provided by the company.
