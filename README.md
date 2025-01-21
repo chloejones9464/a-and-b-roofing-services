@@ -133,7 +133,7 @@ Github
 ##### Services page
 ![Services page testing](documentation/desktop-services-test.png)
 ##### Gallery page
-![Gallery page testing](documentation/desktop-gallery-test.png)
+![Gallery page testing](documentation/desktop-gallery-test.webp)
 ##### Enquiry page
 ![Enquiry page testing](documentation/desktop-enquiry-test.png)
 ##### Thank you page
