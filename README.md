@@ -16,10 +16,10 @@ This is a real world business that is looking for a responsive and easy to use w
 
     
 2. [Features](#features)
-    * [Navigation](#Navigation)
-    * [Footer](#Footer)
-    * [Home page](#Home-page)
-    * [Other features](#Other-features)
+    * [Navigation](#navigation)
+    * [Footer](#footer)
+    * [Home page](#home-page)
+    * [Other features](#other-features)
 
 3. [Technologies Used](#technologies-used)
 4. [Testing](#testing)
