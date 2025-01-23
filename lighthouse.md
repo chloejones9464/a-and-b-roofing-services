@@ -23,4 +23,4 @@
 ##### Thank you page
 ![Thank you page testing](documentation/desktop-thank-you-test.png)
 
-[Home](README.md)
+[Home](README.md#googles-lighthouse-performance)

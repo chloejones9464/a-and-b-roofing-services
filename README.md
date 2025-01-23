@@ -22,7 +22,7 @@ This is a real world business that is looking for a responsive and easy to use w
     * [Other features](#other-features)
 
 3. [Technologies Used](#technologies-used)
-4. [Testing](#testing)
+4. [Testing](#testing-links-and-responsiveness)
 5. [Bugs](#bugs)
 6. [Deployment](#deployment)
 7. [Credits](#credits)
@@ -184,6 +184,7 @@ List of used resources for your website (text, images, snippets of code, project
  * chatGPT
  * validator.w3.org
  * jigsaw.w3.org/css-validator
+ * geeksforgeeks.org
 
   - Media
 * All roofing images and logo provided by the company.

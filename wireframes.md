@@ -30,5 +30,5 @@
 ### Thank you page
 ![Screenshots of the site on desktop, thank you page](documentation/desktop-thank-you-page.png)
 
-[Home](README.md)
+[Home](README.md#wireframes)
 

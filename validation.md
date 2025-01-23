@@ -16,4 +16,4 @@
 ![CSS Validation](documentation/css-validation.webp)
 
 
-[Home](README.md)
+[Home](README.md#code-validation)
