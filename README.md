@@ -46,20 +46,22 @@ Along with Facebook and the local business magazine promotions, Brandon and Anth
 
 #### User experience
 
-* I would like the website to have a clear navigation area so that I can use get from page to page with easy.
-* I would like there to be clear information on the first page I see so that I know immediately I'm visiting the correct site.
-* I want the contact details to be accessible on all pages so that I can find them with just one click.
-* I want to have the option to contact the company through their website so that I have more than one option to get hold of the company.
-* I want to have a sign that tells me my enquiry has been sent so that I know the company has received it.
+* As a user, I would like the website to have a clear navigation area so that I can use get from page to page with easy.
+* As a user, I would like there to be clear information on the first page I see so that I know immediately I'm visiting the correct site.
+* As a user, I want the contact details to be accessible on all pages so that I can find them with just one click.
+* As a user, I want to have the option to contact the company through their website so that I have more than one option to get hold of the company.
+* As a user, I want to have a sign that tells me my enquiry has been sent so that I know the company has received it.
 
 #### Company goals
 
-* I want my website to have as much information as possible so that potential customers can see what we services we have to offer.
-* I would like to include various jobs we've completed on the website so that customers can view what we can do and to the standard we're proud of.
-* I want to have a Call Now button for an emergency or ease of contact so that the company can be contacted right-away.
+* As the company owner, I want my website to have as much information as possible so that potential customers can see what we services we have to offer.
+* As the company owner, I would like to include various jobs we've completed on the website so that customers can view what we can do and to the standard we're proud of.
+* As the company owner, I want to have a Call Now button for an emergency or ease of contact so that the company can be contacted right-away.
 
 
 ### Wireframes
+I've created wireframes for multiple devices using Balsamiq Wireframes. These screen shots show the responsiveness I wanted to achieve in this project.
+
 To view the wireframes for this project, please click [here](wireframes.md)
 ### Typography
 I used Google Fonts to import fonts to use for the website.
@@ -70,15 +72,31 @@ As this is a project for an actual company, I've stuck with the color scheme giv
 
 ![Screenshot of the colour palette from the Coolors website](documentation/color-palette.webp)
 
+I also tested these colors on the Contrast Grid website, this helped me decide where to use the colors best on different backgrounds. This website was recommended to me by Matt.
+
+![Screenshot of Contrast Grid](documentation/contrast-grid.png)
+
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
 The website has a collapsable navigation bar in the header and a contact section in the footer (more below).
 Each page on the website contains the company's logo at the very top of the page, this is for the effect anf feeling of consistency throughout the site.
 ### Pages on the website consist of a; 
-* Home page - The home page of the website contains the company's about us section where they express their dedication and commitment to deliver high quality roofing services.
-* Services page - This is where the public and potential customers come to find out what the company has to offer and work they carry out. It contains a list of the works, this includes clickable text for the users to visually see the jobs undertaken under that name. There is also an image carousel displaying various completed jobs.
-* Gallery page - The company specifically asked for a page where they can display a range of jobs they have completed, mainly before and after images. Users can view the range and quality of work done by the business. The page also contains a video taken from a large job the company had completed recently.
-* Enquiry & Thank you page - This page is for the users to input their enquiry and send to the company out of the working hours. Once sending off the enquiry (after filling in each box) the user will be greeted with a thank you page, an acknowledgment that their form has been sent to the company.
+* [Homepage (desktop)](documentation/home-feature.png) [Homepage (mobile)](documentation/home-mobile-feature.png) - The home page of the website contains the company's about us section where they express their dedication and commitment to deliver high quality roofing services. 
+* [Services page (desktop)](documentation/services-feature.png) [Services page (mobile)](documentation/services-mobile-feature.png) - This is where the public and potential customers come to find out what the company has to offer and work they carry out. It contains a list of the works, this includes [clickable text for desktop](documentation/services-modal-feature.png) and for [mobile](documentation/services-modal-mobile-feature.png)  for the users to visually see the jobs undertaken under that name. There is also an image carousel displaying various completed jobs.
+* [Gallery page (desktop)](documentation/gallery-feature.png) [Gallery page (mobile)](documentation/gallery-mobile-feature.png) - The company specifically asked for a page where they can display a range of jobs they have completed, mainly before and after images. Users can view the range and quality of work done by the business. The page also contains a video taken from a large job the company had completed recently.
+* [Enquiry (desktop)](documentation/enquiry-feature.png) & [Thank you (desktop)](documentation/thank-you-feature.png) page,  [Enquiry (mobile)](documentation/enquiry-mobile-feature.png) & [Thank you(mobile)](documentation/thank-you-mobile-feature.png) page- This page is for the users to input their enquiry and send to the company out of the working hours. Once sending off the enquiry (after filling in each box) the user will be greeted with a thank you page, an acknowledgment that their form has been sent to the company.
+* Contact - This remains at the bottom of every page.
+[Home (desktop)](documentation/home-contact.png),
+[Services (desktop)](documentation/services-contact.png),
+[Gallery (desktop)](documentation/gallery-contact.png),
+[Enquiry (desktop)](documentation/enquiry-contact.png),
+[Thank you (desktop)](documentation/thank-you-contact.png),
+[Home (mobile)](documentation/home-contact-mobile-feature.png),
+[Services (mobile)](documentation/services-contact-mobile-feature.png),
+[Gallery (mobile)](documentation/gallery-contact-mobile-feature.png),
+[Enquiry (mobile)](documentation/enquiry-contact-mobile-feature.png),
+[Thank you (mobile)](documentation/thank-you-contact-mobile-feature.png),
+
 ### Navigation
 Within the navigation section of the site, there are 7 clickable links.
 1. The company's logo will take you directly to the home page, as will the Home link on the right hand side of the site.
@@ -91,7 +109,6 @@ Within the navigation section of the site, there are 7 clickable links.
 The navigation bar has a collapsable feature for smaller devices and will drop down when clicked on. After clicking the desired page, the menu will collapse.
 ### Footer
 The footer contains the company's contact section. The section has links to the company's Facebook page and when on mobile devices, the ability to click on the contact numbers to call the company immediately.
-### Other features
 ## Technologies Used
 For this project I used a number of technologies such as;
 HTML
@@ -99,43 +116,43 @@ CSS
 Bootstrap
 Github
 ## Testing links and responsiveness
-### Navigation
-[![Testing the navigation](https://img.youtube.com/vi/XK4LA84k7Dc/0.jpg)](https://www.youtube.com/watch?v=XK4LA84k7Dc)
-
-### Home page
-[![Testing the home page](https://img.youtube.com/vi/Q5aHrgNZG2A/0.jpg)](https://www.youtube.com/watch?v=Q5aHrgNZG2A)
-
-### Services page
-[![Testing the home page](https://img.youtube.com/vi/HzG9C7FGptk/0.jpg)](https://www.youtube.com/watch?v=HzG9C7FGptk)
-
-### Gallery page
-[![Testing the home page](https://img.youtube.com/vi/jhtUvfZBjTw/0.jpg)](https://www.youtube.com/watch?v=jhtUvfZBjTw)
-
-### Enquiry and Thank you page
-[![Testing the home page](https://img.youtube.com/vi/YaZds608avw/0.jpg)](https://www.youtube.com/watch?v=YaZds608avw)
+I've created screen recording of myself testing the links and responsiveness of each page on the website.
+Please click on this [link](testing-links-responsiveness.md) to see the videos and how the website responds!
 
 ### Google's Lighthouse Performance
-Click [here](lighthouse.md) for screenshots of the website performance.
+I've tested each page for its performance, accessibility and best practices with Google Lighthouse.
 
+Click [here](lighthouse.md) for screenshots of the website performance.
 
 ### Browser Compatibility
 Testing the website on different browsers using the chrome extention 'User-Agent Switcher for Chrome'.
 These are the browsers being tested(below) and each browser showed that the website was compatible.
 ![Tested browsers](documentation/tested-browsers.png)
 ### Code Validation
+To validate my code, I used W3C Validation Service, this helped pick up any errors and warnings. I had a few small errors on most of the pages. One in particular would be that I had created a section on the page for the company logo. The website advised me to change the secion to a div if it doesnot require a heading of some sort.
+
 Click [here](validation.md) to view all code validations.
 ### Manual Testing user stories or/and features
 Test all your user stories, you an create table 
 User Story |  Test | Pass
 --- | --- | :---:
-Clear information on front page | Tested the contrast of the text against the background color | &check;
-Navigation | Clicked each page and texted each link | &check;
-Contact details | Applied links to numbers and tested | &check;
-Services page | Added list of jobs and carousel displaying complete work | &check;
-More content on Home and Services page | Created a small section with company description | &check;
+Clear information on front page | Test the contrast using WAVE [Screenshot of contrast testing](documentation/contrast-test.webp) | &check;
+Navigation | Click navbar links on each page
+-- | Home page - Services, Gallery, Enquiry, Contact and Call Now button | &check;
+-- | Services page - Home page, Gallery, Enquiry, Contact and Call Now button | &check; 
+-- | Gallery page - Home page, Services, Enquiry, Contact and Call Now button | &check;
+-- | Enquiry page - Home page, Services, Contact and Call Now button | &check;
+-- | Thank you page - Home page, Services, Enquiry, Contact and Call Now button | &check;
+Contact details | Click contact links on each page (Home, Services, Enquiry, Gallery and Thank you)
+-- | Call Now button in nav bar | &check;
+-- | Contact number for Brandon in nav bar | &check;
+-- | Contact number for Anthony in nav bar | &check;
+-- | Facebook link in nav bar | &check;
+Services page | Responsiveness of the images on the page including the modals on different devices, check the indicators on carousel | &check;
+More content on Home and Services page | Create a small section with company description, test with family and friend on their devices | &check;
 Gallery page | Images of before and after jobs by the company | &check;
-Call Now button for mobiles | Tested button and ensured it applies only to mobiles | &check;
-Enquiry page | Form tested, each box must be filled to send form | &check;
+Call Now button for mobiles | Test button and ensured it applies only to mobiles | &check;
+Enquiry page | Test that each box must be filled to send form | &check;
 Thank you page | Small thank you message and button back to the home page | &check;
 
 **Please click [here](#testing-links-and-responsiveness) to see the testing of the pages.
@@ -156,6 +173,9 @@ The images had taken up most of my time on this project as i had not correctly s
 ### Enquiry page
 The form on the enquiry page was originally set a triangle layout when the page had reach the desktop width. My mentor made a very valid point in that people are not used to form displaying as a triangle. He suggested that I change the layout to a box as this is usually what people would expect.
 
+### Interesting Bugs
+* The iframe on the Gallery contains violations in the code YouTube provided for me to use the video on  my site. It showed picture in picture and autoplay which I'd amended.
+* upon testing my responsiveness, my screen was showing that my website's responsiveness was working the way I'd like (down to 320px) but my mentor Matt tested this on his computer and it was showing the responsiveness I wanted was breaking at 324px.
 
 ## Deployment
 
@@ -170,21 +190,22 @@ The site was deployed to Github Pages using the following method:
 List of used resources for your website (text, images, snippets of code, projects....)
   - Code & Text Content
  * Code Institute (ci-full-template)
- * Bootstrap
- * Google fonts
- * Font Awesome
- * Favicon.io
- * support.google.com
- * coolors.co
- * Am I Responsive?
- * TinyPNG
- * stackoverflow.com
- * w3schools.com
- * YouTube
- * chatGPT
+ * Bootstrap - I used bootstraps software to achieve most of the features on the site.
+ * Google fonts - This was used for the majority of the fonts across the website.
+ * Font Awesome - For the contact information, I placed the call and facebook icon using this website.
+ * Favicon.io - I created the favicon for the company's logo so that it will appear at in the tab when navigating through the pages.
+ * support.google.com - I've asked questions through the google search engine to help rectify my lighthouse errors(image sizing).
+ * coolors.co - This and the below website came in handy for when i was trying to get the perfect contrast for the website.
+ * Color grid - as above
+ * Am I Responsive? - I was able to find one error in my responsiveness using this site. The mobile device navbar was not showing the collapsable bar on the right hand side. It was showing it below the company's name. I was able to correct this to achieve the final appearence in the project image above.
+ * TinyPNG - I used this website to cut the sixe of my images and change them to webp documents. Webp helped my site to performe much better with it's smaller size.
+ * stackoverflow.com - I searched through this website's forums to find the best response to better improve my project such as using divs and sections correctly.
+ * w3schools.com - Using this website helped me find codes that would help my website become more responsive.
+ * YouTube - Thi site was used to show the company's video of a full slate roof.
+ * chatGPT - I asked chat GPT to help create a description about a roofing company and what they provide.
  * validator.w3.org
  * jigsaw.w3.org/css-validator
- * geeksforgeeks.org
+ * geeksforgeeks.org - Used this for the same reasons as w3schools.com.
 
   - Media
 * All roofing images and logo provided by the company.
