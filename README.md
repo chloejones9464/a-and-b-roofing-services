@@ -123,6 +123,8 @@ Please click on this [link](testing-links-responsiveness.md) to see the videos a
 ### Google's Lighthouse Performance
 I've tested each page for its performance, accessibility and best practices with Google Lighthouse. 
 
+I've noticed that there are a few bugs on the Gallery page due to the YouTube video. It seems that Google break a few of their own rules!
+
 Click [here](lighthouse.md) for screenshots of the website performance.
 
 ### Browser Compatibility
