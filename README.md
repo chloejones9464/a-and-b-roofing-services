@@ -177,8 +177,8 @@ The images had taken up most of my time on this project as i had not correctly s
 The form on the enquiry page was originally set a triangle layout when the page had reach the desktop width. My mentor made a very valid point in that people are not used to form displaying as a triangle. He suggested that I change the layout to a box as this is usually what people would expect.
 
 ### Interesting Bugs
-* The iframe on the Gallery contains violations in the code YouTube provided for me to use the video on  my site. It showed picture in picture and autoplay which I'd amended.
-* upon testing my responsiveness, my screen was showing that my website's responsiveness was working the way I'd like (down to 320px) but my mentor Matt tested this on his computer and it was showing the responsiveness I wanted was breaking at 324px.
+* The iframe on the Gallery contains violations in the code YouTube provided for me to use the video on  my site. It showed picture in picture and autoplay which I'd amended. Google where breaking their own rules causing the webpage to flag up a few errors.
+* Upon testing my responsiveness, my screen was showing that my website's responsiveness was working the way I'd like (down to 320px) but my mentor Matt tested this on his computer and it was showing the responsiveness I wanted was breaking at 324px.
 
 ## Deployment
 
