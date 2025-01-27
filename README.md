@@ -1,7 +1,7 @@
 # My Milestone Project 1
 
 ## A & B Roofing Services Website
-This is a real world business that is looking for a responsive and easy to use websote for customers of all ages. This website will allow users to view previous jobs and see what the company offer in their services. Customers will have the ability to send an enquiry, use the click-to-call buttons at the very top and bottom of the page and visit the company's Facebook page.
+This is a real world business that is looking for a responsive and easy to use website for customers of all ages. This website will allow users to view previous completed jobs and see what the company offer in their services. Customers will have the ability to send an enquiry, use the click-to-call buttons at the very top and bottom of the page and visit the company's Facebook page.
 
 ![Screenshot of the project on different devices, using the website am i responsive?](documentation/project-image.webp)
 
@@ -31,9 +31,9 @@ This is a real world business that is looking for a responsive and easy to use w
 
 ### Initial Discussions
 A & B Roofing Services is a company in the real world that have been established since COVID came around. It is a family run business with over 30 years experience and have proven very popular and reliable in and around the Rhondda Valleys.
-Customers have spread the word about A & B Roofing Services through general word of mouth but the company have been looking to create another way to reach their customers.
+Customers have spread the word about A & B Roofing Services through general word of mouth but the company have been looking to create another ways to reach their customers.
 
-Along with Facebook and the local business magazine promotions, Brandon and Anthony have some concerns that these methods may not be enough. After a few customers asking and advising, the company finally decided to create their own website with easy to use features, the ability to call them on any page, access to their ever growing portfolio, a service page with all they can offer and an enquiry page.
+Along with Facebook and the local business magazine promotions, Brandon and Anthony have some concerns that these methods may not be enough. After a few customers asking if the business had another way to contact them and view their work, the company finally decided to create their own website with easy to use features. Features such as; the ability to call the company on any page, access to their ever growing portfolio, a service page with all they can offer and an enquiry page.
 
 ### Key information for the site
 
@@ -46,17 +46,17 @@ Along with Facebook and the local business magazine promotions, Brandon and Anth
 
 #### User experience
 
-* As a user, I would like the website to have a clear navigation area so that I can use get from page to page with easy.
-* As a user, I would like there to be clear information on the first page I see so that I know immediately I'm visiting the correct site.
+* As a user, I would like the website to have a clear navigation area so that I can use get from page to page with ease.
+* As a user, I would like there to be clear information on the home page so that I know immediately I'm visiting the correct site.
 * As a user, I want the contact details to be accessible on all pages so that I can find them with just one click.
 * As a user, I want to have the option to contact the company through their website so that I have more than one option to get hold of the company.
-* As a user, I want to have a sign that tells me my enquiry has been sent so that I know the company has received it.
+* As a user, I want to have reassurance that enquiry has been sent so that I know the company has received it.
 
 #### Company goals
 
-* As the company owner, I want my website to have as much information as possible so that potential customers can see what we services we have to offer.
+* As the company owner, I want my website to have as much information as possible so that potential customers can see what services we have to offer.
 * As the company owner, I would like to include various jobs we've completed on the website so that customers can view what we can do and to the standard we're proud of.
-* As the company owner, I want to have a Call Now button for an emergency or ease of contact so that the company can be contacted right-away.
+* As the company owner, I want to have a Call Now button for an emergency or ease of contact so that the customer can be redirected to the phone call right-away.
 
 
 ### Wireframes
@@ -66,7 +66,7 @@ To view the wireframes for this project, please click [here](wireframes.md)
 ### Typography
 I used Google Fonts to import fonts to use for the website.
 
-I went with a combination on Nunito and Sans-Serif. Discussed with the company, these fonts seems very approachable, easy and friendly to the eye.
+I went with a combination on Nunito and Sans-Serif. Discussed with the company, these fonts seem very approachable, easy and friendly to the eye.
 ### Colour Scheme
 As this is a project for an actual company, I've stuck with the color scheme given to me by their logo. Very minimalistic but effective.
 
@@ -78,13 +78,13 @@ I also tested these colors on the Contrast Grid website, this helped me decide w
 
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms.....)
-The website has a collapsable navigation bar in the header and a contact section in the footer (more below).
-Each page on the website contains the company's logo at the very top of the page, this is for the effect anf feeling of consistency throughout the site.
+The website has a collapsable navigation bar in the header and a contact section in the footer, this was tested on all devices through DevTools and mobile devices (more below).
+Each page on the website contains the company's logo at the very top of the page, this is for the effect and feel of consistency throughout the site.
 ### Pages on the website consist of a; 
 * [Homepage (desktop)](documentation/home-feature.png) [Homepage (mobile)](documentation/home-mobile-feature.png) - The home page of the website contains the company's about us section where they express their dedication and commitment to deliver high quality roofing services. 
 * [Services page (desktop)](documentation/services-feature.png) [Services page (mobile)](documentation/services-mobile-feature.png) - This is where the public and potential customers come to find out what the company has to offer and work they carry out. It contains a list of the works, this includes [clickable text for desktop](documentation/services-modal-feature.png) and for [mobile](documentation/services-modal-mobile-feature.png)  for the users to visually see the jobs undertaken under that name. There is also an image carousel displaying various completed jobs.
 * [Gallery page (desktop)](documentation/gallery-feature.png) [Gallery page (mobile)](documentation/gallery-mobile-feature.png) - The company specifically asked for a page where they can display a range of jobs they have completed, mainly before and after images. Users can view the range and quality of work done by the business. The page also contains a video taken from a large job the company had completed recently.
-* [Enquiry (desktop)](documentation/enquiry-feature.png) & [Thank you (desktop)](documentation/thank-you-feature.png) page,  [Enquiry (mobile)](documentation/enquiry-mobile-feature.png) & [Thank you(mobile)](documentation/thank-you-mobile-feature.png) page- This page is for the users to input their enquiry and send to the company out of the working hours. Once sending off the enquiry (after filling in each box) the user will be greeted with a thank you page, an acknowledgment that their form has been sent to the company.
+* [Enquiry (desktop)](documentation/enquiry-feature.png) & [Thank you (desktop)](documentation/thank-you-feature.png) page,  [Enquiry (mobile)](documentation/enquiry-mobile-feature.png) & [Thank you(mobile)](documentation/thank-you-mobile-feature.png) page- The enquiry page is for the users to input their enquiry and send to the company out of the working hours. Once sending off the enquiry (after filling in each box) the user will be greeted with a thank you page, an acknowledgment that their form has been sent to the company.
 * Contact - This remains at the bottom of every page.
 [Home (desktop)](documentation/home-contact.png),
 [Services (desktop)](documentation/services-contact.png),
@@ -99,12 +99,12 @@ Each page on the website contains the company's logo at the very top of the page
 
 ### Navigation
 Within the navigation section of the site, there are 7 clickable links.
-1. The company's logo will take you directly to the home page, as will the Home link on the right hand side of the site.
-2. Services.
-3. Gallery.
-4. Enquiry
-5. Contact will take you to the bottom of each page to the Contact Us section.
-6. Call Now. This button in the navigation will appear only on phone devices and once clicked on, will give the user the ability to call the company immediately.
+* The company's logo will take you directly to the home page, as will the Home link on the right hand side of the site.
+* Services.
+* Gallery.
+* Enquiry
+* Contact will take you to the bottom of each page to the Contact Us section.
+* Call Now. This button in the navigation will appear only on phone devices and once clicked on, will give the user the ability to call the company immediately.
 
 The navigation bar has a collapsable feature for smaller devices and will drop down when clicked on. After clicking the desired page, the menu will collapse.
 ### Footer
@@ -116,11 +116,12 @@ CSS
 Bootstrap
 Github
 ## Testing links and responsiveness
-I've created screen recording of myself testing the links and responsiveness of each page on the website.
+I've created screen recordings of myself testing the links and responsiveness of each page on the website. I feel that recording the screen was a new and exciting way of showcasing the responsiveness of the website, live in action.
+
 Please click on this [link](testing-links-responsiveness.md) to see the videos and how the website responds!
 
 ### Google's Lighthouse Performance
-I've tested each page for its performance, accessibility and best practices with Google Lighthouse.
+I've tested each page for its performance, accessibility and best practices with Google Lighthouse. 
 
 Click [here](lighthouse.md) for screenshots of the website performance.
 
