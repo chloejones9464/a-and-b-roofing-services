@@ -77,7 +77,6 @@ I also tested these colors on the Contrast Grid website, this helped me decide w
 ![Screenshot of Contrast Grid](documentation/contrast-grid.png)
 
 ## Features:
-Explain your features on the website,(navigation, pages, links, forms.....)
 The website has a collapsable navigation bar in the header and a contact section in the footer, this was tested on all devices through DevTools and mobile devices (more below).
 Each page on the website contains the company's logo at the very top of the page, this is for the effect and feel of consistency throughout the site.
 ### Pages on the website consist of a; 
@@ -111,10 +110,10 @@ The navigation bar has a collapsable feature for smaller devices and will drop d
 The footer contains the company's contact section. The section has links to the company's Facebook page and when on mobile devices, the ability to click on the contact numbers to call the company immediately.
 ## Technologies Used
 For this project I used a number of technologies such as;
-HTML
-CSS
-Bootstrap
-Github
+1. HTML
+2. CSS
+3. Bootstrap
+4. Github
 ## Testing links and responsiveness
 I've created screen recordings of myself testing the links and responsiveness of each page on the website. I feel that recording the screen was a new and exciting way of showcasing the responsiveness of the website, live in action.
 
@@ -135,8 +134,7 @@ These are the browsers being tested(below) and each browser showed that the webs
 To validate my code, I used W3C Validation Service, this helped pick up any errors and warnings. I had a few small errors on most of the pages. One in particular would be that I had created a section on the page for the company logo. The website advised me to change the secion to a div if it doesnot require a heading of some sort.
 
 Click [here](validation.md) to view all code validations.
-### Manual Testing user stories or/and features
-Test all your user stories, you an create table 
+### Manual Testing user stories or/and features 
 User Story |  Test | Pass
 --- | --- | :---:
 Clear information on front page | Test the contrast using WAVE [Screenshot of contrast testing](documentation/contrast-test.webp) | &check;
@@ -189,8 +187,26 @@ The site was deployed to Github Pages using the following method:
 - Using the 'select branch' dropdown menu, choose 'main'.
 - Click 'save'.
 
+#### Cloning
+To clone a repository from GitHub, you can use the command git clone in the terminal or use the Clone Repository button in a tool like Visual Studio Code or GitHub Desktop. 
+
+#### Steps 
+1. Go to the repository's main page on GitHub
+2. Click Code above the list of files
+3. Copy the repository's URL
+4. Open the terminal
+5. Change the current working directory to where you want the cloned directory to be
+6. Run the command git clone <repository-url>
+
+#### How to fork the repository
+To fork a repository on GitHub, navigate to the desired repository on GitHub, then locate the "Fork" button in the top right corner of the page and click it; this will create a copy of the repository under your own GitHub account, allowing you to make changes independently from the original project. 
+
+#### Key steps:
+1. Go to the repository: Access the GitHub repository you want to fork. 
+2. Click "Fork": In the top right corner of the repository page, find and click the "Fork" button. 
+3. Confirm ownership: If prompted, select the owner (which should be your GitHub account) for the forked repository. 
+
 ## Credits
-List of used resources for your website (text, images, snippets of code, projects....)
   - Code & Text Content
  * Code Institute (ci-full-template)
  * Bootstrap - I used bootstraps software to achieve most of the features on the site.
@@ -204,17 +220,17 @@ List of used resources for your website (text, images, snippets of code, project
  * TinyPNG - I used this website to cut the sixe of my images and change them to webp documents. Webp helped my site to performe much better with it's smaller size.
  * stackoverflow.com - I searched through this website's forums to find the best response to better improve my project such as using divs and sections correctly.
  * w3schools.com - Using this website helped me find codes that would help my website become more responsive.
- * YouTube - Thi site was used to show the company's video of a full slate roof.
+ * YouTube - This site was used to show the company's video of a full slate roof.
  * chatGPT - I asked chat GPT to help create a description about a roofing company and what they provide.
  * validator.w3.org
  * jigsaw.w3.org/css-validator
  * geeksforgeeks.org - Used this for the same reasons as w3schools.com.
+ * Google - I use the AI feature of Google to help word how to clone and fork my project.
 
   - Media
 * All roofing images and logo provided by the company.
   
-  - Acknowledgment
-    - acknowledgment to mentors, peers, tutors, friends, family, facilitator (who ever contributed and helped with the project)
+  - Acknowledgment    
 * A huge thank you to my husband for helping with my first project by asking to provide a website for his company, and also helping around the house!
 * Another big thank you to Matt Boden, my mentor, he's put up with some 'tricky for me but simple for him' questions which I'm ever so grateful for.
 * Thomas from the tutoring session I requested. He helped me find an easier way to resize images to suit the website.
