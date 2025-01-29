@@ -1,7 +1,7 @@
 # My Milestone Project 1
 
 ## A & B Roofing Services Website
-This is a real world business that is looking for a responsive and easy to use websote for customers of all ages. This website will allow users to view previous jobs and see what the company offer in their services. Customers will have the ability to send an enquiry, use the click-to-call buttons at the very top and bottom of the page and visit the company's Facebook page.
+This is a real world business that is looking for a responsive and easy to use website for customers of all ages. This website will allow users to view previous completed jobs and see what the company offer in their services. Customers will have the ability to send an enquiry, use the click-to-call buttons at the very top and bottom of the page and visit the company's Facebook page.
 
 ![Screenshot of the project on different devices, using the website am i responsive?](documentation/project-image.webp)
 
@@ -31,9 +31,9 @@ This is a real world business that is looking for a responsive and easy to use w
 
 ### Initial Discussions
 A & B Roofing Services is a company in the real world that have been established since COVID came around. It is a family run business with over 30 years experience and have proven very popular and reliable in and around the Rhondda Valleys.
-Customers have spread the word about A & B Roofing Services through general word of mouth but the company have been looking to create another way to reach their customers.
+Customers have spread the word about A & B Roofing Services through general word of mouth but the company have been looking to create another ways to reach their customers.
 
-Along with Facebook and the local business magazine promotions, Brandon and Anthony have some concerns that these methods may not be enough. After a few customers asking and advising, the company finally decided to create their own website with easy to use features, the ability to call them on any page, access to their ever growing portfolio, a service page with all they can offer and an enquiry page.
+Along with Facebook and the local business magazine promotions, Brandon and Anthony have some concerns that these methods may not be enough. After a few customers asking if the business had another way to contact them and view their work, the company finally decided to create their own website with easy to use features. Features such as; the ability to call the company on any page, access to their ever growing portfolio, a service page with all they can offer and an enquiry page.
 
 ### Key information for the site
 
@@ -46,17 +46,17 @@ Along with Facebook and the local business magazine promotions, Brandon and Anth
 
 #### User experience
 
-* As a user, I would like the website to have a clear navigation area so that I can use get from page to page with easy.
-* As a user, I would like there to be clear information on the first page I see so that I know immediately I'm visiting the correct site.
+* As a user, I would like the website to have a clear navigation area so that I can use get from page to page with ease.
+* As a user, I would like there to be clear information on the home page so that I know immediately I'm visiting the correct site.
 * As a user, I want the contact details to be accessible on all pages so that I can find them with just one click.
 * As a user, I want to have the option to contact the company through their website so that I have more than one option to get hold of the company.
-* As a user, I want to have a sign that tells me my enquiry has been sent so that I know the company has received it.
+* As a user, I want to have reassurance that enquiry has been sent so that I know the company has received it.
 
 #### Company goals
 
-* As the company owner, I want my website to have as much information as possible so that potential customers can see what we services we have to offer.
+* As the company owner, I want my website to have as much information as possible so that potential customers can see what services we have to offer.
 * As the company owner, I would like to include various jobs we've completed on the website so that customers can view what we can do and to the standard we're proud of.
-* As the company owner, I want to have a Call Now button for an emergency or ease of contact so that the company can be contacted right-away.
+* As the company owner, I want to have a Call Now button for an emergency or ease of contact so that the customer can be redirected to the phone call right-away.
 
 
 ### Wireframes
@@ -66,7 +66,7 @@ To view the wireframes for this project, please click [here](wireframes.md)
 ### Typography
 I used Google Fonts to import fonts to use for the website.
 
-I went with a combination on Nunito and Sans-Serif. Discussed with the company, these fonts seems very approachable, easy and friendly to the eye.
+I went with a combination on Nunito and Sans-Serif. Discussed with the company, these fonts seem very approachable, easy and friendly to the eye.
 ### Colour Scheme
 As this is a project for an actual company, I've stuck with the color scheme given to me by their logo. Very minimalistic but effective.
 
@@ -77,14 +77,13 @@ I also tested these colors on the Contrast Grid website, this helped me decide w
 ![Screenshot of Contrast Grid](documentation/contrast-grid.png)
 
 ## Features:
-Explain your features on the website,(navigation, pages, links, forms.....)
-The website has a collapsable navigation bar in the header and a contact section in the footer (more below).
-Each page on the website contains the company's logo at the very top of the page, this is for the effect anf feeling of consistency throughout the site.
+The website has a collapsable navigation bar in the header and a contact section in the footer, this was tested on all devices through DevTools and mobile devices (more below).
+Each page on the website contains the company's logo at the very top of the page, this is for the effect and feel of consistency throughout the site.
 ### Pages on the website consist of a; 
 * [Homepage (desktop)](documentation/home-feature.png) [Homepage (mobile)](documentation/home-mobile-feature.png) - The home page of the website contains the company's about us section where they express their dedication and commitment to deliver high quality roofing services. 
 * [Services page (desktop)](documentation/services-feature.png) [Services page (mobile)](documentation/services-mobile-feature.png) - This is where the public and potential customers come to find out what the company has to offer and work they carry out. It contains a list of the works, this includes [clickable text for desktop](documentation/services-modal-feature.png) and for [mobile](documentation/services-modal-mobile-feature.png)  for the users to visually see the jobs undertaken under that name. There is also an image carousel displaying various completed jobs.
 * [Gallery page (desktop)](documentation/gallery-feature.png) [Gallery page (mobile)](documentation/gallery-mobile-feature.png) - The company specifically asked for a page where they can display a range of jobs they have completed, mainly before and after images. Users can view the range and quality of work done by the business. The page also contains a video taken from a large job the company had completed recently.
-* [Enquiry (desktop)](documentation/enquiry-feature.png) & [Thank you (desktop)](documentation/thank-you-feature.png) page,  [Enquiry (mobile)](documentation/enquiry-mobile-feature.png) & [Thank you(mobile)](documentation/thank-you-mobile-feature.png) page- This page is for the users to input their enquiry and send to the company out of the working hours. Once sending off the enquiry (after filling in each box) the user will be greeted with a thank you page, an acknowledgment that their form has been sent to the company.
+* [Enquiry (desktop)](documentation/enquiry-feature.png) & [Thank you (desktop)](documentation/thank-you-feature.png) page,  [Enquiry (mobile)](documentation/enquiry-mobile-feature.png) & [Thank you(mobile)](documentation/thank-you-mobile-feature.png) page- The enquiry page is for the users to input their enquiry and send to the company out of the working hours. Once sending off the enquiry (after filling in each box) the user will be greeted with a thank you page, an acknowledgment that their form has been sent to the company.
 * Contact - This remains at the bottom of every page.
 [Home (desktop)](documentation/home-contact.png),
 [Services (desktop)](documentation/services-contact.png),
@@ -99,28 +98,31 @@ Each page on the website contains the company's logo at the very top of the page
 
 ### Navigation
 Within the navigation section of the site, there are 7 clickable links.
-1. The company's logo will take you directly to the home page, as will the Home link on the right hand side of the site.
-2. Services.
-3. Gallery.
-4. Enquiry
-5. Contact will take you to the bottom of each page to the Contact Us section.
-6. Call Now. This button in the navigation will appear only on phone devices and once clicked on, will give the user the ability to call the company immediately.
+* The company's logo will take you directly to the home page, as will the Home link on the right hand side of the site.
+* Services.
+* Gallery.
+* Enquiry
+* Contact will take you to the bottom of each page to the Contact Us section.
+* Call Now. This button in the navigation will appear only on phone devices and once clicked on, will give the user the ability to call the company immediately.
 
 The navigation bar has a collapsable feature for smaller devices and will drop down when clicked on. After clicking the desired page, the menu will collapse.
 ### Footer
 The footer contains the company's contact section. The section has links to the company's Facebook page and when on mobile devices, the ability to click on the contact numbers to call the company immediately.
 ## Technologies Used
 For this project I used a number of technologies such as;
-HTML
-CSS
-Bootstrap
-Github
+1. HTML
+2. CSS
+3. Bootstrap
+4. Github
 ## Testing links and responsiveness
-I've created screen recording of myself testing the links and responsiveness of each page on the website.
+I've created screen recordings of myself testing the links and responsiveness of each page on the website. I feel that recording the screen was a new and exciting way of showcasing the responsiveness of the website, live in action.
+
 Please click on this [link](testing-links-responsiveness.md) to see the videos and how the website responds!
 
 ### Google's Lighthouse Performance
-I've tested each page for its performance, accessibility and best practices with Google Lighthouse.
+I've tested each page for its performance, accessibility and best practices with Google Lighthouse. 
+
+I've noticed that there are a few bugs on the Gallery page due to the YouTube video. It seems that Google break a few of their own rules!
 
 Click [here](lighthouse.md) for screenshots of the website performance.
 
@@ -132,8 +134,7 @@ These are the browsers being tested(below) and each browser showed that the webs
 To validate my code, I used W3C Validation Service, this helped pick up any errors and warnings. I had a few small errors on most of the pages. One in particular would be that I had created a section on the page for the company logo. The website advised me to change the secion to a div if it doesnot require a heading of some sort.
 
 Click [here](validation.md) to view all code validations.
-### Manual Testing user stories or/and features
-Test all your user stories, you an create table 
+### Manual Testing user stories or/and features 
 User Story |  Test | Pass
 --- | --- | :---:
 Clear information on front page | Test the contrast using WAVE [Screenshot of contrast testing](documentation/contrast-test.webp) | &check;
@@ -174,8 +175,15 @@ The images had taken up most of my time on this project as i had not correctly s
 The form on the enquiry page was originally set a triangle layout when the page had reach the desktop width. My mentor made a very valid point in that people are not used to form displaying as a triangle. He suggested that I change the layout to a box as this is usually what people would expect.
 
 ### Interesting Bugs
-* The iframe on the Gallery contains violations in the code YouTube provided for me to use the video on  my site. It showed picture in picture and autoplay which I'd amended.
-* upon testing my responsiveness, my screen was showing that my website's responsiveness was working the way I'd like (down to 320px) but my mentor Matt tested this on his computer and it was showing the responsiveness I wanted was breaking at 324px.
+* The iframe on the Gallery contains violations in the code YouTube provided for me to use the video on  my site. It showed picture in picture and autoplay which I'd amended. Google where breaking their own rules causing the webpage to flag up a few errors.
+* Upon testing my responsiveness, my screen was showing that my website's responsiveness was working the way I'd like (down to 320px) but my mentor Matt tested this on his computer and it was showing the responsiveness I wanted was breaking at 324px.
+
+### Github contributors
+Towards the end of my project, Code Institute announced that we were changing over to VS Code from GitPod. This wasn't the issue as the change went very smoothly. The issue came after working on VS code for a couple of days to a week after changing over.
+I had 2 contributors working on my project (both my own account, one personal and the other the student). Matt helped me to resolve this by changing the global username and email to the student account.
+I first had to delete my personal account from GitHub, which delete the username chlojo30. Now my email was free to add to my student account. I went to the settings on Git Hub (through my student account), to the Email in the side bar and added my personal email. I then changed my promary email to my personal email.
+Then i had to change my username and email to correspond to this.
+To do this I enterd git config --global user.name "chloejones9464" into the terminal bash. I then entered git config --global user.email "my-personal-email".
 
 ## Deployment
 
@@ -186,8 +194,26 @@ The site was deployed to Github Pages using the following method:
 - Using the 'select branch' dropdown menu, choose 'main'.
 - Click 'save'.
 
+#### Cloning
+To clone a repository from GitHub, you can use the command git clone in the terminal or use the Clone Repository button in a tool like Visual Studio Code or GitHub Desktop. 
+
+#### Steps 
+1. Go to the repository's main page on GitHub
+2. Click Code above the list of files
+3. Copy the repository's URL
+4. Open the terminal
+5. Change the current working directory to where you want the cloned directory to be
+6. Run the command git clone <repository-url>
+
+#### How to fork the repository
+To fork a repository on GitHub, navigate to the desired repository on GitHub, then locate the "Fork" button in the top right corner of the page and click it; this will create a copy of the repository under your own GitHub account, allowing you to make changes independently from the original project. 
+
+#### Key steps:
+1. Go to the repository: Access the GitHub repository you want to fork. 
+2. Click "Fork": In the top right corner of the repository page, find and click the "Fork" button. 
+3. Confirm ownership: If prompted, select the owner (which should be your GitHub account) for the forked repository. 
+
 ## Credits
-List of used resources for your website (text, images, snippets of code, projects....)
   - Code & Text Content
  * Code Institute (ci-full-template)
  * Bootstrap - I used bootstraps software to achieve most of the features on the site.
@@ -201,17 +227,17 @@ List of used resources for your website (text, images, snippets of code, project
  * TinyPNG - I used this website to cut the sixe of my images and change them to webp documents. Webp helped my site to performe much better with it's smaller size.
  * stackoverflow.com - I searched through this website's forums to find the best response to better improve my project such as using divs and sections correctly.
  * w3schools.com - Using this website helped me find codes that would help my website become more responsive.
- * YouTube - Thi site was used to show the company's video of a full slate roof.
+ * YouTube - This site was used to show the company's video of a full slate roof.
  * chatGPT - I asked chat GPT to help create a description about a roofing company and what they provide.
  * validator.w3.org
  * jigsaw.w3.org/css-validator
  * geeksforgeeks.org - Used this for the same reasons as w3schools.com.
+ * Google - I use the AI feature of Google to help word how to clone and fork my project.
 
   - Media
 * All roofing images and logo provided by the company.
   
-  - Acknowledgment
-    - acknowledgment to mentors, peers, tutors, friends, family, facilitator (who ever contributed and helped with the project)
+  - Acknowledgment    
 * A huge thank you to my husband for helping with my first project by asking to provide a website for his company, and also helping around the house!
 * Another big thank you to Matt Boden, my mentor, he's put up with some 'tricky for me but simple for him' questions which I'm ever so grateful for.
 * Thomas from the tutoring session I requested. He helped me find an easier way to resize images to suit the website.
