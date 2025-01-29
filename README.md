@@ -178,6 +178,13 @@ The form on the enquiry page was originally set a triangle layout when the page 
 * The iframe on the Gallery contains violations in the code YouTube provided for me to use the video on  my site. It showed picture in picture and autoplay which I'd amended. Google where breaking their own rules causing the webpage to flag up a few errors.
 * Upon testing my responsiveness, my screen was showing that my website's responsiveness was working the way I'd like (down to 320px) but my mentor Matt tested this on his computer and it was showing the responsiveness I wanted was breaking at 324px.
 
+### Github contributors
+Towards the end of my project, Code Institute announced that we were changing over to VS Code from GitPod. This wasn't the issue as the change went very smoothly. The issue came after working on VS code for a couple of days to a week after changing over.
+I had 2 contributors working on my project (both my own account, one personal and the other the student). Matt helped me to resolve this by changing the global username and email to the student account.
+I first had to delete my personal account from GitHub, which delete the username chlojo30. Now my email was free to add to my student account. I went to the settings on Git Hub (through my student account), to the Email in the side bar and added my personal email. I then changed my promary email to my personal email.
+Then i had to change my username and email to correspond to this.
+To do this I enterd git config --global user.name "chloejones9464" into the terminal bash. I then entered git config --global user.email "my-personal-email".
+
 ## Deployment
 
 #### Deloying on Github
